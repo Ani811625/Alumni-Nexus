@@ -3,7 +3,7 @@
 **Alumni Nexus: Rajasthan Connect** is a modern web application designed to foster meaningful connections between alumni and current students of Rajasthan-based educational institutions. Built with a focus on community engagement, mentorship, and professional networking, this platform serves as a centralized hub for alumni interactions and institutional updates.
 
 
-> 🚀 Live Demo: 
+> 🚀 Live Demo: https://gilded-eclair-f968ba.netlify.app/
 
 ---
 
